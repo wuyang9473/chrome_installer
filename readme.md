@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto update Chrome 152.0.7977.76 at 2026-09-02 08:41
+> 📝 Auto update Chrome 152.0.7977.76 at 2026-09-02 13:16
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ b1caff7c6044a44c2e3a773bcf91dde93db5f49fd55a54b19c6c1270b9764877  x86_152.0.7977
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `154.0.8037.0` | 418.17 MB | `bcde5b2d3c6c41b6...` | [下载](https://dl.google.com/release2/chrome/lf54ti2ybnolkqvk7xcetfvf7y_154.0.8037.0/154.0.8037.0_chrome_installer_uncompressed.exe) |
-| x64 | `154.0.8037.0` | 496.44 MB | `3ef7790e069bcb85...` | [下载](https://dl.google.com/release2/chrome/m72j6n63vgfgv252k35vll4mfy_154.0.8037.0/154.0.8037.0_chrome_installer_uncompressed.exe) |
-| arm64 | `154.0.8037.0` | 475.24 MB | `8f2b8c30c506fe0a...` | [下载](https://dl.google.com/release2/chrome/cuqnntgrl6fcvqpvivlnyrthi4_154.0.8037.0/154.0.8037.0_chrome_installer_uncompressed.exe) |
+| x86 | `154.0.8037.8` | 418.17 MB | `664a50453851c89c...` | [下载](https://dl.google.com/release2/chrome/ad7ubwpjrvuksjo6rrwsdgoxiorq_154.0.8037.8/154.0.8037.8_chrome_installer_uncompressed.exe) |
+| x64 | `154.0.8037.8` | 496.44 MB | `99a79072045c749a...` | [下载](https://dl.google.com/release2/chrome/adkuz6ee3ybcrytvwgagemuxsgka_154.0.8037.8/154.0.8037.8_chrome_installer_uncompressed.exe) |
+| arm64 | `154.0.8037.8` | 475.24 MB | `cbbf2d1d634dce4c...` | [下载](https://dl.google.com/release2/chrome/adkaygy57iooosqmc4iv6pq3cnxa_154.0.8037.8/154.0.8037.8_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-bcde5b2d3c6c41b62aeeae1d5f3e73011cfddaf105c0e45ee7a99bad6d129d60  x86_154.0.8037.0
-3ef7790e069bcb8543f064bd48f3eb1f1d417458ecc913a4b2a6205cf46f7a86  x64_154.0.8037.0
-8f2b8c30c506fe0a4422ade110f5c13b3d73fda9d269fce42dacaedcc9df62f3  arm64_154.0.8037.0
+664a50453851c89cb2cdcef0c1d142913a14dda310fe47a3040a63c21d6417c4  x86_154.0.8037.8
+99a79072045c749aa8e5488e6ccf2297788b9e1da80d445800371722702928dc  x64_154.0.8037.8
+cbbf2d1d634dce4ceb5b5c7424a6c254f1eb5c856488b5414093724120577d1a  arm64_154.0.8037.8
 ```
 
 </details>
