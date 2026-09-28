@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 154.0.8037.58 at 2026-09-28 19:28:56
+> 📝 Auto Update Chrome 154.0.8037.58 at 2026-09-29 03:20:29
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -71,17 +71,17 @@ b60c470ee6d819192957da8c56558733208f9a2055249d96b42c8528855e24fc  x86_156.0.8072
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `156.0.8075.3` | 639.91 MB | `5f3c6bf9ae77290d...` | [下载](https://dl.google.com/release2/chrome/fajiqkzrolajls3kwljr3job7u_156.0.8075.3/156.0.8075.3_chrome_installer_uncompressed.exe) |
-| x64 | `156.0.8076.0` | 501.37 MB | `f80e8d51bef3fcf8...` | [下载](https://dl.google.com/release2/chrome/acd7b5oz5pe332vvqa3mskbviaua_156.0.8076.0/156.0.8076.0_chrome_installer_uncompressed.exe) |
-| arm64 | `156.0.8075.2` | 693.27 MB | `2c937d6802dc37ea...` | [下载](https://dl.google.com/release2/chrome/ccsqs3e4yjlsrqlpycuslekm6q_156.0.8075.2/156.0.8075.2_chrome_installer_uncompressed.exe) |
+| x86 | `156.0.8076.0` | 425.8 MB | `d4304834f528db5d...` | [下载](https://dl.google.com/release2/chrome/c63gpoaepgt45jsqlkurjcnrqa_156.0.8076.0/156.0.8076.0_chrome_installer_uncompressed.exe) |
+| x64 | `156.0.8077.0` | 501.24 MB | `b7978eee45f110c9...` | [下载](https://dl.google.com/release2/chrome/hprknmrmr4ctqdr7eqe25vrd6y_156.0.8077.0/156.0.8077.0_chrome_installer_uncompressed.exe) |
+| arm64 | `156.0.8077.0` | 476.77 MB | `dff75ce34538dc04...` | [下载](https://dl.google.com/release2/chrome/acszdkob4ctlpucfqbme2irvyqsq_156.0.8077.0/156.0.8077.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-5f3c6bf9ae77290da93f168bd33393eadc42983779ca4c28e4c0ef76b0b992fa  x86_156.0.8075.3
-f80e8d51bef3fcf89140e10bbc54e500b3edbf2eac2a445e51c80982f0f64332  x64_156.0.8076.0
-2c937d6802dc37ea15cee9f9f83057dadfe09b4045fe158ddb4a3d429b362a7b  arm64_156.0.8075.2
+d4304834f528db5d7621cbb07c22b9ed6ff0cdb522c41673fcf7d0b52437c11c  x86_156.0.8076.0
+b7978eee45f110c9342fdcb75cd7c33e60b5c73556104d53b742fd5964fab9b7  x64_156.0.8077.0
+dff75ce34538dc04d011f5a0d6e7653c720694fa8c1c9f85b6ba6cb6e006f95e  arm64_156.0.8077.0
 ```
 
 </details>
