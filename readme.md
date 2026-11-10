@@ -1,5 +1,5 @@
 # Google Chrome 离线安装包（请使用 7-Zip 解压）
-> 📝 Auto Update Chrome 157.0.8103.39 at 2026-11-10 04:28:04
+> 📝 Auto Update Chrome 157.0.8103.51 at 2026-11-10 11:13:45
 
 稳定版存档：[Chrome_installer](https://github.com/wuyangdaily/chrome_installer/releases)
 
@@ -14,17 +14,17 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 | 下载 |
 |------|--------|----------|--------|------|
-| x86 | `157.0.8103.39` | 433.2 MB | `b78eb6f41328178f...` | [下载](https://dl.google.com/release2/chrome/b5nkgc5ojnyxf6fup2lbg7wu2i_157.0.8103.39/157.0.8103.39_chrome_installer_uncompressed.exe) |
-| x64 | `157.0.8103.39` | 505.67 MB | `389b9e21de9a520a...` | [下载](https://dl.google.com/release2/chrome/lzz46e6auim6sx75xrn7xp5hza_157.0.8103.39/157.0.8103.39_chrome_installer_uncompressed.exe) |
-| arm64 | `157.0.8103.39` | 481.75 MB | `7f04727f6c1e5803...` | [下载](https://dl.google.com/release2/chrome/ad3ociixsmqni5nszryxv3xd22ha_157.0.8103.39/157.0.8103.39_chrome_installer_uncompressed.exe) |
+| x86 | `157.0.8103.51` | 433.2 MB | `b6c2d0b1bcf0df79...` | [下载](https://dl.google.com/release2/chrome/joakxwrgjhhcrkplqg7sgj2g2u_157.0.8103.51/157.0.8103.51_chrome_installer_uncompressed.exe) |
+| x64 | `157.0.8103.51` | 505.67 MB | `cc7aca3546b69255...` | [下载](https://dl.google.com/release2/chrome/hhb3n3my4axozv7qmzlcqqaspi_157.0.8103.51/157.0.8103.51_chrome_installer_uncompressed.exe) |
+| arm64 | `157.0.8103.51` | 481.75 MB | `196dfa0044e80a75...` | [下载](https://dl.google.com/release2/chrome/addiw4kcnf7rszbgkn6gbsluphoq_157.0.8103.51/157.0.8103.51_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256</summary>
 
 ```
-b78eb6f41328178fe5051959daf3a4193b10721e89bb7932228911a9f4b36fca  x86_157.0.8103.39
-389b9e21de9a520a6e24ba807ee8760409ccc837457bbcc460d2fdce0d5e8df5  x64_157.0.8103.39
-7f04727f6c1e5803c761f631008f64b8d26adf3869c28eeb3077b90635b44804  arm64_157.0.8103.39
+b6c2d0b1bcf0df79d6d8940c64d8c29b966fc57c0ef989808529498a348fb0c1  x86_157.0.8103.51
+cc7aca3546b69255ecc2419c2cbfd51a21ed47837e953cf9d84ab60eca758d57  x64_157.0.8103.51
+196dfa0044e80a751ecd8e77f0753b18a1d86a7104c6bfdd25189373a4c1b7f3  arm64_157.0.8103.51
 ```
 
 </details>
